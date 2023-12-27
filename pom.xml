@@ -38,7 +38,7 @@
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-compiler-plugin</artifactId>
-            <version>3.11.1</version> <!-- 或者更高版本，支持 Java 17 -->
+            <version>3.11.0</version> <!-- 或者更高版本，支持 Java 17 -->
             <configuration>
                 <release>17</release>
             </configuration>
